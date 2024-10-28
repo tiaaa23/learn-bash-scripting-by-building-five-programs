@@ -254,3 +254,5 @@ __vsc_prompt_cmd_original
 ./questionnaire.sh
 __vsc_prompt_cmd_original
 echo
+./questionnaire.sh
+__vsc_prompt_cmd_original
