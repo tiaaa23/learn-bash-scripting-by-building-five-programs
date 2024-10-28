@@ -248,3 +248,4 @@ __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 echo ~~ Questionnaire ~~
 ./questionnaire.sh
 echo --help
+man echo
