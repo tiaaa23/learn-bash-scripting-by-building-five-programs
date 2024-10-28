@@ -380,3 +380,6 @@ sleep 3
 ./countdown.sh 3
 ./countdown.sh 3
 ./countdown.sh 1
+git status
+git commit -m "TIA PUSPITASARI PUTRI_240402"
+git add .
